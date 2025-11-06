@@ -4,7 +4,7 @@ title: "About the Author"
 author: "Annie "
 categories: facts
 tags: [sample]
-image: cv.avif
+image: Fagen - 2017 - Handmaids in red.jpg
 ---
 
 Test
