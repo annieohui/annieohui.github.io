@@ -1,6 +1,6 @@
 ---
-layout: category
-title: Documentation
-category: documentation
-permalink: /documentation
+layout: page
+title: Teaching
+category: teaching
+permalink: /teaching
 ---
