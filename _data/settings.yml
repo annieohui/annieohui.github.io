@@ -9,7 +9,7 @@ google-ID: 'UA-112060364-2'
 menu:
 - {name: 'CV',                 url: 'cv'}
 - {name: 'Research Interests', url: 'research'}
-- {name: 'Current Projects',   url: 'projects'}
+- {name: 'Current Projects',   url: 'current'}
 - {name: 'Teaching',           url: 'teaching'}
 - {name: 'Potpourri',          url: 'archive'}
 - {name: 'Contact',            url: 'contact'}
