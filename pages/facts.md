@@ -1,6 +1,6 @@
 ---
-layout: category
-title: Interesting Facts
-category: facts
-permalink: /facts
+layout: page
+title: CV
+category: cv
+permalink: /cv
 ---
