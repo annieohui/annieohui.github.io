@@ -16,7 +16,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'bluesky',    link:    'https://twitter.com/paululele'}
+- {icon: 'square-bluesky',    link:    'https://twitter.com/paululele'}
 - {icon: 'envelope',   link:   'mailto:ahui@gmu.edu'}
 
 # Customize site text
